@@ -6,4 +6,4 @@ a new line added by ChiChu
 
 a new line added by Tianxing
 
-a new line to casue conflict
+new line to casue conflicts
