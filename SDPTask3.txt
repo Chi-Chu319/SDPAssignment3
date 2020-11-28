@@ -5,3 +5,5 @@ This a new line
 a new line added by ChiChu
 
 a new line added by Tianxing
+
+a new line to casue conflict
